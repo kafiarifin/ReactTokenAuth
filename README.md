@@ -6,4 +6,4 @@ This is the final project of the React & React Native class @ Hacktiv8.com
 - Foundation
 - Restful API
 
-SignUp first, so you can log in.
+SignUp first, so you can LogIn https://kafi-hacktiv8.firebaseapp.com/.
