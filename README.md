@@ -5,3 +5,5 @@ This is the final project of the React & React Native class @ Hacktiv8.com
 - User SignUp
 - Foundation
 - Restful API
+
+SignUp first, so you can log in.
